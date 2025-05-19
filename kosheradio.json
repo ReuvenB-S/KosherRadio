@@ -72,10 +72,10 @@
     "dialogTitle": "רדיו לב ישראל"
   },
   {
-    "name": "רדיו V חרדי",
-    "streamUrl": "http://radiov.adpro.me:8012/;stream.nsv",
+    "name": "רדיו קול חי רק תורה",
+    "streamUrl": "https://live.kcm.fm/livetorani/hls.m3u8",
     "imageUrl": "radio",
-    "dialogTitle": "רדיו V חרדי"
+    "dialogTitle": "קול חי רק תורה"
   },
   {
     "name": "רדיו קול הנחל ברסלב",
