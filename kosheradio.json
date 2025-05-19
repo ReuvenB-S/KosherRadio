@@ -23,6 +23,12 @@
     "imageUrl": "radio",
     "dialogTitle": "רדיו מלכות פה"
   },
+   {
+    "name": "רדיו קול חי רק תורה",
+    "streamUrl": "https://live.kcm.fm/livetorani",
+    "imageUrl": "radio",
+    "dialogTitle": "קול חי רק תורה"
+  },
   {
     "name": "רדיו קול חי",
     "streamUrl": "https://live.kcm.fm/live-new",
@@ -42,10 +48,10 @@
     "dialogTitle": "הרדיו של מנחם טוקר"
   },
   {
-    "name": "רדיו קול חי - תורני",
-    "streamUrl": "http://media.93fm.co.il/livetorani",
+    "name": "רדיו מוסיוף",
+    "streamUrl": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
     "imageUrl": "radio",
-    "dialogTitle": "רדיו קול חי - תורני"
+    "dialogTitle": "רדיו מוסיוף"
   },
   {
     "name": "רדיו קול ברמה",
@@ -71,13 +77,7 @@
     "imageUrl": "radio",
     "dialogTitle": "רדיו לב ישראל"
   },
-  {
-    "name": "רדיו קול חי רק תורה",
-    "streamUrl": "https://live.kcm.fm/livetorani",
-    "imageUrl": "radio",
-    "dialogTitle": "קול חי רק תורה"
-  },
-  {
+   {
     "name": "רדיו קול הנחל ברסלב",
     "streamUrl": "http://www.breslav.co.il:5598/html/;stream.mp3",
     "imageUrl": "radio",
