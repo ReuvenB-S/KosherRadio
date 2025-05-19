@@ -49,7 +49,7 @@
   },
   {
     "name": "רדיו מוסיוף",
-    "streamUrl": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
+    "streamUrl": "https://stream.kolhaemet.co.il/live",
     "imageUrl": "radio",
     "dialogTitle": "רדיו מוסיוף"
   },
