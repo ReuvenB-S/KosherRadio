@@ -13,7 +13,7 @@
   },
   {
     "name": "רדיו חבד מבשר טוב",
-    "streamUrl": "http://770tv.no-ip.org:7777/;",
+    "streamUrl": "http://770tv.no-ip.org:7777/;?type=http&nocache=5646",
     "imageUrl": "radio",
     "dialogTitle": "רדיו חבד מבשר טוב"
   },
