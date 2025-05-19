@@ -1,0 +1,104 @@
+[
+  {
+    "name": "רדיו קול זימרה",
+    "streamUrl": "https://servidor34.brlogic.com:7120/live",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול זימרה"
+  },
+  {
+    "name": "רדיו קול ההלכה",
+    "streamUrl": "https://broadcast.adpronet.com/radio/8050/radio.mp3",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול ההלכה"
+  },
+  {
+    "name": "רדיו חבד מבשר טוב",
+    "streamUrl": "http://770tv.no-ip.org:7777/;",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו חבד מבשר טוב"
+  },
+  {
+    "name": "רדיו מלכות פה",
+    "streamUrl": "https://streams.radio.co/sb47021c06/listen",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו מלכות פה"
+  },
+  {
+    "name": "רדיו קול חי",
+    "streamUrl": "https://live.kcm.fm/live-new",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול חי"
+  },
+  {
+    "name": "קול חי מיוזיק",
+    "streamUrl": "https://media2.93fm.co.il/livemusic",
+    "imageUrl": "radio",
+    "dialogTitle": "קול חי מיוזיק"
+  },
+  {
+    "name": "הרדיו של מנחם טוקר",
+    "streamUrl": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
+    "imageUrl": "radio",
+    "dialogTitle": "הרדיו של מנחם טוקר"
+  },
+  {
+    "name": "רדיו קול חי - תורני",
+    "streamUrl": "http://media.93fm.co.il/livetorani",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול חי - תורני"
+  },
+  {
+    "name": "רדיו קול ברמה",
+    "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול ברמה"
+  },
+  {
+    "name": "רדיו קול פליי",
+    "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול פליי"
+  },
+  {
+    "name": "ערוץ 2000",
+    "streamUrl": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio?cuid=Radio2000&subid=radio2000.co.il",
+    "imageUrl": "radio",
+    "dialogTitle": "ערוץ 2000"
+  },
+  {
+    "name": "רדיו לב ישראל",
+    "streamUrl": "http://edge.mixlr.com/channel/fldua",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו לב ישראל"
+  },
+  {
+    "name": "רדיו V חרדי",
+    "streamUrl": "http://radiov.adpro.me:8012/;stream.nsv",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו V חרדי"
+  },
+  {
+    "name": "רדיו קול הנחל ברסלב",
+    "streamUrl": "http://www.breslav.co.il:5598/html/;stream.mp3",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול הנחל ברסלב"
+  },
+  {
+    "name": "רדיו קול שמחה",
+    "streamUrl": "https://media.93fm.co.il/livehappy",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול שמחה"
+  },
+  {
+    "name": "רדיו יחד",
+    "streamUrl": "https://fmcil.com/yh128.mp3",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו יחד"
+  },
+  {
+    "name": "רדיו ברסלב",
+    "streamUrl": "http://144.76.120.141:8142/stream",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו ברסלב"
+  }
+]
