@@ -90,12 +90,6 @@
     "dialogTitle": "רדיו קול שמחה"
   },
   {
-    "name": "רדיו יחד",
-    "streamUrl": "https://fmcil.com/yh128.mp3",
-    "imageUrl": "radio",
-    "dialogTitle": "רדיו יחד"
-  },
-  {
     "name": "רדיו ברסלב",
     "streamUrl": "http://144.76.120.141:8142/stream",
     "imageUrl": "radio",
