@@ -1,9 +1,10 @@
 [
+
   {
-    "name": "רדיו קול זימרה",
-    "streamUrl": "https://servidor34.brlogic.com:7120/live",
+    "name": "רדיו מורשת -שישי בין 14:00-15:00",
+    "streamUrl": "https://www.kan.org.il/player?itemId=4511&playerType=Kaltura&programId=4511",
     "imageUrl": "radio",
-    "dialogTitle": "רדיו קול זימרה"
+    "dialogTitle": "רדיו מורשת -שישי"
   },
   {
     "name": "רדיו קול ההלכה",
