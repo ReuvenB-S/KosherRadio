@@ -1,11 +1,6 @@
 [
 
-  {
-    "name": "רדיו מורשת -שישי בין 14:00-15:00",
-    "streamUrl": "https://www.kan.org.il/player?itemId=4511&playerType=Kaltura&programId=4511",
-    "imageUrl": "radio",
-    "dialogTitle": "רדיו מורשת -שישי"
-  },
+
   {
     "name": "רדיו קול ההלכה",
     "streamUrl": "https://broadcast.adpronet.com/radio/8050/radio.mp3",
