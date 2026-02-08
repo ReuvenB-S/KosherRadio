@@ -1,24 +1,5 @@
 [
 
-
-  {
-    "name": "רדיו קול ההלכה",
-    "streamUrl": "https://broadcast.adpronet.com/radio/8050/radio.mp3",
-    "imageUrl": "radio",
-    "dialogTitle": "רדיו קול ההלכה"
-  },
-  {
-    "name": "רדיו חבד מבשר טוב",
-    "streamUrl": "http://770tv.no-ip.org:7777/;?type=http&nocache=5646",
-    "imageUrl": "radio",
-    "dialogTitle": "רדיו חבד מבשר טוב"
-  },
-  {
-    "name": "רדיו מלכות פה",
-    "streamUrl": "https://streams.radio.co/sb47021c06/listen",
-    "imageUrl": "radio",
-    "dialogTitle": "רדיו מלכות פה"
-  },
    {
     "name": "רדיו קול חי רק תורה",
     "streamUrl": "https://live.kcm.fm/livetorani",
@@ -26,6 +7,12 @@
     "dialogTitle": "קול חי רק תורה"
   },
   {
+    "name": "רדיו קול ההלכה",
+    "streamUrl": "https://broadcast.adpronet.com/radio/8050/radio.mp3",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו קול ההלכה"
+  },
+    {
     "name": "רדיו קול חי",
     "streamUrl": "https://live.kcm.fm/live-new",
     "imageUrl": "radio",
@@ -43,6 +30,7 @@
     "imageUrl": "radio",
     "dialogTitle": "הרדיו של מנחם טוקר"
   },
+  
   {
     "name": "רדיו מוסיוף",
     "streamUrl": "https://stream.kolhaemet.co.il/live",
@@ -61,6 +49,20 @@
     "imageUrl": "radio",
     "dialogTitle": "רדיו קול פליי"
   },
+  {
+    "name": "רדיו חבד מבשר טוב",
+    "streamUrl": "http://770tv.no-ip.org:7777/;?type=http&nocache=5646",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו חבד מבשר טוב"
+  },
+  {
+    "name": "רדיו מלכות פה",
+    "streamUrl": "https://streams.radio.co/sb47021c06/listen",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו מלכות פה"
+  },
+
+
   {
     "name": "ערוץ 2000",
     "streamUrl": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio?cuid=Radio2000&subid=radio2000.co.il",
