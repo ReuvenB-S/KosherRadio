@@ -94,7 +94,7 @@
   },
   {
     "name": "רדיו ברסלב",
-    "streamUrl": "http://144.76.120.141:8142/stream",
+    "streamUrl": "https://securestreams6.autopo.st:2294/mp3",
     "imageUrl": "radio",
     "dialogTitle": "רדיו ברסלב"
   }
