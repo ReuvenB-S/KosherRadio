@@ -20,7 +20,7 @@
         {
     "name": "רדיו הידברות",
     "streamUrl": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
-    "imageUrl": "radio",
+    "imageUrl": "hid",
     "dialogTitle": "רדיו הידברות"
   },
     {
@@ -45,7 +45,7 @@
   {
     "name": "רדיו מוסיוף",
     "streamUrl": "https://stream.kolhaemet.co.il/live",
-    "imageUrl": "radio",
+    "imageUrl": "mus",
     "dialogTitle": "רדיו מוסיוף"
   },
   {
@@ -57,25 +57,25 @@
   {
     "name": "רדיו קול פליי",
     "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
-    "imageUrl": "radio",
+    "imageUrl": "play",
     "dialogTitle": "רדיו קול פליי"
   },
       {
     "name": "רדיו מוזיקה יהודית אמריקאית",
     "streamUrl": "https://stream.jewishmusicstream.com:8000/;",
-    "imageUrl": "radio",
+    "imageUrl": "jew",
     "dialogTitle": "רדיו מוזיקה יהודית אמריקאית"
   },
   {
     "name": "רדיו חבד מבשר טוב",
     "streamUrl": "https://liveradio.co.il:7777/nsv",
-    "imageUrl": "radio",
+    "imageUrl": "a777",
     "dialogTitle": "רדיו חבד מבשר טוב"
   },
   {
     "name": "רדיו מלכות פה",
     "streamUrl": "https://streams.radio.co/sb47021c06/listen",
-    "imageUrl": "radio",
+    "imageUrl": "pe",
     "dialogTitle": "רדיו מלכות פה"
   },
 
@@ -95,13 +95,13 @@
    {
     "name": "רדיו קול הנחל ברסלב",
     "streamUrl": "https://cast4.asurahosting.com/proxy/yaniv/stream;",
-    "imageUrl": "radio",
+    "imageUrl": "bres",
     "dialogTitle": "רדיו קול הנחל ברסלב"
   },
   {
     "name": "רדיו קול שמחה",
     "streamUrl": "https://broadcast.adpronet.com/radio/8000/radio.mp3",
-    "imageUrl": "radio",
+    "imageUrl": "simcha",
     "dialogTitle": "רדיו קול שמחה"
   },
 
