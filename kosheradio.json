@@ -98,6 +98,12 @@
     "imageUrl": "radio",
     "dialogTitle": "רדיו קול שמחה"
   },
+      {
+    "name": "רדיו מלכות פה",
+    "streamUrl": "https://streams.radio.co/sb47021c06/listen",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו מלכות פה"
+  },
   {
     "name": "רדיו ברסלב",
     "streamUrl": "https://securestreams6.autopo.st:2294/mp3",
