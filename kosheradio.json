@@ -8,13 +8,13 @@
    {
     "name": "רדיו קול חי רק תורה",
     "streamUrl": "https://live.kcm.fm/livetorani",
-    "imageUrl": "radio",
+    "imageUrl": "hai3",
     "dialogTitle": "קול חי רק תורה"
   },
   {
     "name": "רדיו קול ההלכה",
     "streamUrl": "https://broadcast.adpronet.com/radio/8050/radio.mp3",
-    "imageUrl": "radio",
+    "imageUrl": "hala",
     "dialogTitle": "רדיו קול ההלכה"
   },
         {
@@ -26,19 +26,19 @@
     {
     "name": "רדיו קול חי",
     "streamUrl": "https://live.kcm.fm/live-new",
-    "imageUrl": "radio",
+    "imageUrl": "hai",
     "dialogTitle": "רדיו קול חי"
   },
   {
     "name": "קול חי מיוזיק",
     "streamUrl": "https://media2.93fm.co.il/livemusic",
-    "imageUrl": "radio",
+    "imageUrl": "hai2",
     "dialogTitle": "קול חי מיוזיק"
   },
   {
     "name": "הרדיו של מנחם טוקר",
     "streamUrl": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
-    "imageUrl": "radio",
+    "imageUrl": "toker",
     "dialogTitle": "הרדיו של מנחם טוקר"
   },
   
@@ -51,7 +51,7 @@
   {
     "name": "רדיו קול ברמה",
     "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
-    "imageUrl": "radio",
+    "imageUrl": "rama",
     "dialogTitle": "רדיו קול ברמה"
   },
   {
@@ -89,7 +89,7 @@
   {
     "name": "רדיו לב ישראל",
     "streamUrl": "https://edge.mixlr.com/channel/fldua",
-    "imageUrl": "radio",
+    "imageUrl": "rlisrael",
     "dialogTitle": "רדיו לב ישראל"
   },
    {
