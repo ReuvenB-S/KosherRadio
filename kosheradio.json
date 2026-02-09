@@ -60,6 +60,12 @@
     "imageUrl": "radio",
     "dialogTitle": "רדיו קול פליי"
   },
+      {
+    "name": "רדיו מוזיקה יהודית אמריקאית",
+    "streamUrl": "https://stream.jewishmusicstream.com:8000/;",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו מוזיקה יהודית אמריקאית"
+  },
   {
     "name": "רדיו חבד מבשר טוב",
     "streamUrl": "http://770tv.no-ip.org:7777/;?type=http&nocache=5646",
