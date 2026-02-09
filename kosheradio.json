@@ -17,6 +17,12 @@
     "imageUrl": "radio",
     "dialogTitle": "רדיו קול ההלכה"
   },
+        {
+    "name": "רדיו הידברות",
+    "streamUrl": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+    "imageUrl": "radio",
+    "dialogTitle": "רדיו הידברות"
+  },
     {
     "name": "רדיו קול חי",
     "streamUrl": "https://live.kcm.fm/live-new",
