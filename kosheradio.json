@@ -82,7 +82,7 @@
   },
    {
     "name": "רדיו קול הנחל ברסלב",
-    "streamUrl": "https://cast4.asurahosting.com/proxy/yaniv/stream",
+    "streamUrl": "https://cast4.asurahosting.com/proxy/yaniv/stream;",
     "imageUrl": "radio",
     "dialogTitle": "רדיו קול הנחל ברסלב"
   },
