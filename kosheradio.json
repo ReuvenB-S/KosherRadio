@@ -50,7 +50,7 @@
   },
   {
     "name": "רדיו קול ברמה",
-    "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+    "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio/",
     "imageUrl": "rama",
     "dialogTitle": "רדיו קול ברמה"
   },
